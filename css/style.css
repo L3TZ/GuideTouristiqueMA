@@ -25,6 +25,7 @@
 		font-family: 'Yanone Kaffeesatz';
 		line-height: 1.85em;
 		font-weight: 300;
+
 	}
 
 	ul, ol, p, dl
@@ -241,4 +242,11 @@
 		background-image: -ms-linear-gradient(top, #ce1a00, #ed391b);
 		background-image: -o-linear-gradient(top, #ce1a00, #ed391b);
 		background-image: linear-gradient(top, #ce1a00, #ed391b);
+	}
+
+	#banner #nom-ville {
+		font-size: 55pt;
+		font-weight: 380;
+		text-align: center;
+		margin-top: 40px;
 	}
