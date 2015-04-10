@@ -250,3 +250,23 @@
 		text-align: center;
 		margin-top: 40px;
 	}
+	
+	#reservationGuide {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		border:1px solid gray;
+		padding:50px;
+		box-shadow: 0 0 3px 3px gray;
+	}
+	
+	#reservationGuide .boutonSubmit {
+		margin-left: 60%;
+		margin-top:30px;
+	}
+	
+	#reservationGuide label {
+		display: inline-block;
+		width:250px;
+		text-align: left;
+	}
