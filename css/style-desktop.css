@@ -128,7 +128,7 @@
 
 	#features
 	{
-		color: #D0D0D0;
+		color: white;
 	}
 	
 		#features h2
@@ -140,7 +140,8 @@
 
 		#features a
 		{
-			color: #e0e8eb;
+			color: white;
+			font-weight: bold;
 		}
 		
 		#features strong
