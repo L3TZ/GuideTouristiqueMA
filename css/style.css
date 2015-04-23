@@ -289,3 +289,15 @@
 	.logoLien {
 		cursor: default;
 	}
+	
+	#actEnfantsSection article {
+		margin-bottom: 130px;
+	}
+	
+	#actEnfantsSection p {
+		width:50%;
+	}
+	
+	#actEnfantsSection {
+		min-height: 2400px;
+	}
