@@ -285,3 +285,7 @@
 	#lieuxSection article {
 		margin-bottom:80px;
 	}
+	
+	.logoLien {
+		cursor: default;
+	}
